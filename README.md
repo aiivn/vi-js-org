@@ -1,6 +1,9 @@
-# vi.js.org
+<img src="assets/logo.png" width=25% align="right" />
 
+# vi.js.org
 <img src="https://www.netlify.com/img/deploy/button.svg" />
+
+<center>Website • Docs • Examples • Blog • Spectrum</center>
 
 ## Mục tiêu Dự án
 
