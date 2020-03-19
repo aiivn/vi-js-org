@@ -11,5 +11,5 @@ Xây dựng nguồn thông tin tiếng Việt của ngôn ngữ Lập trình Jav
 
 ## Hạng mục Thông tin
 
-- [ ] Chuyển ngữ sách [Eloquent JavaScript](https://eloquentjavascript.net/index.html)
+- [ ] Chuyển ngữ sách [Eloquent JavaScript](https://github.com/aiivn/vn-eloquent-js)
 - [ ] Tra cứu thông tin thành phần Javacript (JS Components)
