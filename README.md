@@ -20,7 +20,5 @@ Mục tiêu hoàn thiện những hạng mục chính của dự án vào năm 2
 - [ ] Chuyển ngữ sách [Professional JavaScript for Web Developers, 4th Edition](https://learning.oreilly.com/library/view/professional-javascript-for/9781119366447/)
 - [ ] Chuyển ngữ sách [Practical ES6](https://learning.oreilly.com/library/view/practical-es6/9781492067184/)
 
-# Bản quyền
-Bản quyền của kho chứa này thuộc về **[Duy-Thanh Doan (Steve Wilson)](https://duythanh.vn/)**, được phân phối dựa trên giấy phép nội dung CC-BY-NO.
-
-Nội dung của những phần nội dung bổ sung thêm phần lớn là những tác phẩm được chuyển ngữ có xin phép tác giả và được đánh dấu đường dẫn đến bản dịch ở trong bản nội dung gốc.
+## Bản quyền
+Bản quyền của kho chứa này thuộc về **[Duy-Thanh Doan (Steve Wilson)](https://duythanh.vn/)**, được cung cấp dựa trên giấy phép bản quyền số [Creative Commons (CC-BY-ND)](https://vi.wikipedia.org/wiki/Giấy_phép_Creative_Commons#Giấy_phép_nguyên_thuỷ).
